@@ -41,11 +41,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/CertifiedDevloper/AnnieXMusic/stargazers"><img src="https://img.shields.io/github/stars/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/CertifiedDevloper/AnnieXMusic/network/members"><img src="https://img.shields.io/github/forks/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/CertifiedDevloper/AnnieXMusic/issues"><img src="https://img.shields.io/github/issues/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/CertifiedDevloper/AnnieXMusic/commits/main"><img src="https://img.shields.io/github/last-commit/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/CertifiedDevloper/AnnieXMusic/actions"><img src="https://img.shields.io/badge/CI-Status-grey?style=flat-square"/></a>
+  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/stargazers"><img src="https://img.shields.io/github/stars/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
+  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/network/members"><img src="https://img.shields.io/github/forks/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
+  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/issues"><img src="https://img.shields.io/github/issues/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
+  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/commits/main"><img src="https://img.shields.io/github/last-commit/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
+  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/actions"><img src="https://img.shields.io/badge/CI-Status-grey?style=flat-square"/></a>
 </p>
 
 ## 🌟 What is AnnieXMusic?
@@ -204,7 +204,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install git curl python3-pip python3-venv ffmpeg -y
 
 ### Step 2: Clone Repo
-git clone https://github.com/CertifiedDevloper/AnnieXMusic
+git clone https://github.com/kumarprakash28246-source/AnnieXMusic.git
 cd AnnieXMusic
 tmux new -s Annie
 
@@ -236,7 +236,7 @@ rm -rf AnnieXMusic  # Uninstall the repo
 
 ```bash
 ### Step 1: Clone Repo
-git clone https://github.com/CertifiedDevloper/AnnieXMusic
+git clone https://github.com/kumarprakash28246-source/AnnieXMusic.git
 cd AnnieXMusic
 
 ### Step 2: Create .env File
@@ -268,7 +268,7 @@ docker rmi anniexmusic      # Remove image
 | Platform                | Deploy Link                                                                                                                                                                                               |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🔑 **Generate Session** | <a href="https://t.me/SessionBuilderbot"><img src="https://img.shields.io/badge/Session%20-Generator-blue?style=for-the-badge&logo=telegram"/></a>                                                    |
-| 🌍 **Heroku Deploy**    | <a href="http://dashboard.heroku.com/new?template=https://github.com/CertifiedDevloper/AnnieXMusic"><img src="https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku"/></a> |
+| 🌍 **Heroku Deploy**    | <a href="http://dashboard.heroku.com/new?template=https://github.com/kumarprakash28246-source/AnnieXMusic.git"><img src="https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku"/></a> |
 
 
 
@@ -276,13 +276,13 @@ docker rmi anniexmusic      # Remove image
 ## 💬 Community & Support
 
 <p align="center">
-  <a href="https://t.me/CertifiedCoders">
+  <a href="https://t.me/MRPRAKASHYTCHAT">
     <img src="https://img.shields.io/badge/Support_Group-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://t.me/CertifiedCodes">
+  <a href="https://t.me/MRPRAKASHYTCHAT">
     <img src="https://img.shields.io/badge/Updates_Channel-Telegram-6A5ACD?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://t.me/CertifiedCoder">
+  <a href="https://t.me/MRPRAKASHYTCHAT">
     <img src="https://img.shields.io/badge/Contact_Owner-Telegram-4CAF50?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://instagram.com/rajnishthegreat">
