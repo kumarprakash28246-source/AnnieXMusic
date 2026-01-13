@@ -22,7 +22,7 @@
 <!-- 👁 Visitor Counter -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CertifiedDevloper&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MRPRAKASHYTCHAT&style=flat-square" />
 </p>
 
 <h1 align="center">
@@ -41,10 +41,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/stargazers"><img src="https://img.shields.io/github/stars/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/network/members"><img src="https://img.shields.io/github/forks/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/issues"><img src="https://img.shields.io/github/issues/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/commits/main"><img src="https://img.shields.io/github/last-commit/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
+  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/stargazers"><img src="https://img.shields.io/github.com/kumarprakash28246-source/AnnieXMusic.git?style=flat-square"/></a>
+  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/network/members"><img src="https://img.shields.io/github.com/kumarprakash28246-source/AnnieXMusic.git?style=flat-square"/></a>
+  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/issues"><img src="https://img.shields.io/github.com/kumarprakash28246-source/AnnieXMusic.git?style=flat-square"/></a>
+  <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/commits/main"><img src="https://img.shields.io/github.com/kumarprakash28246-source/AnnieXMusic.git?style=flat-square"/></a>
   <a href="https://github.com/kumarprakash28246-source/AnnieXMusic.git/actions"><img src="https://img.shields.io/badge/CI-Status-grey?style=flat-square"/></a>
 </p>
 
