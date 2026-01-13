@@ -30,7 +30,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://t.me/CertifiedCoders">
+  <a href="https://t.me/MRPRAKASHYTCHAT">
     <img src="https://files.catbox.moe/eh780q.jpg" width="600">
   </a>
 </p>
