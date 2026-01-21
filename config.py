@@ -8,7 +8,7 @@ load_dotenv()
 
 # ── Core bot config ────────────────────────────────────────────────────────────
 API_ID = int(getenv("API_ID", 30208092))
-API_HASH = getenv("API_HASH", "232b6ce65e539b5b20a8d55e23bbaf95")
+API_HASH = getenv("API_HASH", "c48f0f5f84ae7d35ae8b5936c1c51003")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 OWNER_ID = int(getenv("OWNER_ID", 6225033257))
